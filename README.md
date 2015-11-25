@@ -1,7 +1,7 @@
 # 20151125-sample
 
--aaaaaa
--aaaaaa
+- aaaaaa
+- aaaaaa
 
 ## sample2
 
